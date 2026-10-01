@@ -16,23 +16,18 @@
 
 ## 🧑‍💻 Sobre mí
 
-Soy **Desarrollador de Software Junior** de Bogotá, Colombia 🇨🇴, con experiencia práctica en desarrollo **backend y frontend**.
+<img align="right" width="150" src="https://github.com/Alejandro-zf.png" />
 
-Actualmente enfoco mi desarrollo principalmente en **Java + Spring Boot**, complementándolo con **Angular y React** para la construcción de interfaces y aplicaciones web.
+Desarrollador de software junior en Bogotá 🇨🇴. Trabajo principalmente con **Java y Spring Boot**: construyo APIs REST, aseguro servicios con **JWT** y modelo datos sobre **PostgreSQL**. En el frontend me muevo con **Angular y React**.
 
-Me interesa especialmente crear software que resuelva problemas reales, entender cómo funcionan las cosas internamente y seguir mejorando mis habilidades mediante proyectos y experiencia práctica.
+Me gusta entender qué pasa por debajo de las herramientas antes de usarlas, y prefiero código simple, separado por capas y fácil de mantener.
 
-- 🎓 **Tecnólogo en Análisis y Desarrollo de Software — SENA**
-- 💼 Experiencia profesional durante mis prácticas en **Grupo ASD**
-- ⚙️ Enfoque principal en **Java y Spring Boot**
-- 🌐 Desarrollo e integración de **APIs REST**
-- 🔐 Experiencia con **Spring Security y JWT**
-- 🗄️ Trabajo con **PostgreSQL y MySQL**
-- ⚛️ Frontend con **Angular y React**
-- 🐳 Fortaleciendo conocimientos en **Docker y DevOps**
-- 🧩 Interés en arquitectura por capas, principios **SOLID** y buenas prácticas
+- 🎓 Tecnólogo en Análisis y Desarrollo de Software — **SENA**
+- 💼 Prácticas como Software Developer en **Grupo ASD** (abr – sep 2026)
+- 🔎 Actualmente construyendo **CommitTrace**
+- 🐳 Aprendiendo **Docker y DevOps**
 
----
+<br clear="right"/>
 
 ## 🛠️ Tech Stack
 
