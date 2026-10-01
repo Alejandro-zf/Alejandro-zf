@@ -11,7 +11,6 @@
 <a href="https://www.linkedin.com/in/alejandro-bernal-761972419/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=F0C808"/></a>
 <a href="mailto:johanalejandrobernal@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=F0C808"/></a>
 <img src="https://img.shields.io/badge/Bogotá-Colombia%20🇨🇴-F0C808?style=for-the-badge&labelColor=000000"/>
-<img src="https://komarev.com/ghpvc/?username=Alejandro-zf&label=Visitas&color=F0C808&style=for-the-badge&labelColor=000000" alt="Visitas al perfil"/>
 
 </div>
 
