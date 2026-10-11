@@ -30,13 +30,40 @@ Soy desarrollador de software con enfoque Full Stack, interesado en construir ap
 
 </div>
 
-| Área | Tecnologías |
-|:--|:--|
-| **Backend** | Java, Spring Boot, Spring Security, Spring Data JPA, JWT |
-| **Frontend** | Angular, React, HTML, CSS, JavaScript |
-| **Bases de datos** | PostgreSQL, MySQL |
-| **Herramientas** | Docker, Git, GitHub, Swagger / OpenAPI |
-| **Metodología** | Scrum |
+<div align="center">
+
+<table width="85%">
+<thead>
+<tr>
+<th align="left">Área</th>
+<th align="left">Tecnologías</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Backend</strong></td>
+<td>Java, Spring Boot, Spring Security, Spring Data JPA, JWT</td>
+</tr>
+<tr>
+<td><strong>Frontend</strong></td>
+<td>Angular, React, HTML, CSS, JavaScript</td>
+</tr>
+<tr>
+<td><strong>Bases de datos</strong></td>
+<td>PostgreSQL, MySQL</td>
+</tr>
+<tr>
+<td><strong>Herramientas</strong></td>
+<td>Docker, Git, GitHub, Swagger / OpenAPI</td>
+</tr>
+<tr>
+<td><strong>Metodología</strong></td>
+<td>Scrum</td>
+</tr>
+</tbody>
+</table>
+
+</div>
 
 ## 💼 Experiencia profesional
 
