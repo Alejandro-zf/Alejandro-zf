@@ -1,4 +1,3 @@
-```html
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F0C808,100:000000&height=145&section=header&text=Alejandro&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Junior&descAlignY=60&descSize=17" width="100%" alt="Alejandro — Full Stack Developer"/>
