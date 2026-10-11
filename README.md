@@ -159,4 +159,3 @@ Plataforma para visualizar la actividad y las contribuciones de los desarrollado
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:F0C808&height=100&section=footer" width="100%" alt="Cierre visual amarillo y negro"/>
 
 </div>
-```
