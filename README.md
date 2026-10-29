@@ -126,6 +126,25 @@ Plataforma para visualizar la actividad y las contribuciones de los desarrollado
 </tr>
 </table>
 
+### 🎯 Candidatae
+
+**Proyecto Open Source · Colaborativo · En desarrollo**
+
+Aplicación web para centralizar y dar seguimiento a las candidaturas de empleo
+en un único dashboard, sin depender de hojas de cálculo dispersas. Proyecto
+construido en equipo junto a otros desarrolladores junior, con mi aporte
+enfocado en el backend.
+
+- 📋 Registro centralizado de todas las postulaciones en un solo lugar.
+- 🔁 Seguimiento del estado de cada proceso: inscrita, en revisión, entrevista,
+  prueba técnica, oferta o descartada.
+- 🛣️ En desarrollo: sincronización automática desde los correos de
+  confirmación de los portales de empleo.
+
+**Stack:** Java · Spring Boot · React · PostgreSQL · Docker
+
+↗ Repositorio del proyecto → https://github.com/samuelad22/Candidatae
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=F0C808&height=2&section=header" width="100%" alt="Separador amarillo"/>
 
 ## 📊 GitHub Stats
