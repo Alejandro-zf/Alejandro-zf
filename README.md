@@ -85,7 +85,24 @@ Participación en el desarrollo de una plataforma para visualizar la actividad y
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
+
+### 🎯 Candidatae
+
+**Proyecto Open Source · Colaborativo · En desarrollo**
+
+Aplicación web para centralizar y dar seguimiento a las candidaturas de empleo en un único dashboard, sin depender de hojas de cálculo dispersas. Proyecto construido en equipo junto a otros desarrolladores junior, con mi aporte enfocado en el backend.
+
+- 📋 Registro centralizado de todas las postulaciones en un solo lugar.
+- 🔁 Seguimiento del estado de cada proceso: inscrita, en revisión, entrevista, prueba técnica, oferta o descartada.
+- 🛣️ En desarrollo: sincronización automática desde los correos de confirmación de los portales de empleo.
+
+**Stack:** Java · Spring Boot · React · PostgreSQL · Docker
+
+<a href="https://github.com/samuelad22/Candidatae">↗ Repositorio del proyecto</a>
+
+</td>
+<td width="33%" valign="top">
 
 ### 🛎️ Mesa de Ayuda
 
@@ -106,7 +123,7 @@ Aplicación web para gestionar solicitudes, tickets de soporte y reservas de esp
 <a href="https://github.com/JuandaC25/Maquetacion-web">↗ Repositorio del frontend</a>
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### 📊 Plataforma de métricas de desarrollo
 
@@ -125,25 +142,6 @@ Plataforma para visualizar la actividad y las contribuciones de los desarrollado
 </td>
 </tr>
 </table>
-
-### 🎯 Candidatae
-
-**Proyecto Open Source · Colaborativo · En desarrollo**
-
-Aplicación web para centralizar y dar seguimiento a las candidaturas de empleo
-en un único dashboard, sin depender de hojas de cálculo dispersas. Proyecto
-construido en equipo junto a otros desarrolladores junior, con mi aporte
-enfocado en el backend.
-
-- 📋 Registro centralizado de todas las postulaciones en un solo lugar.
-- 🔁 Seguimiento del estado de cada proceso: inscrita, en revisión, entrevista,
-  prueba técnica, oferta o descartada.
-- 🛣️ En desarrollo: sincronización automática desde los correos de
-  confirmación de los portales de empleo.
-
-**Stack:** Java · Spring Boot · React · PostgreSQL · Docker
-
-↗ Repositorio del proyecto → https://github.com/samuelad22/Candidatae
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=F0C808&height=2&section=header" width="100%" alt="Separador amarillo"/>
 
